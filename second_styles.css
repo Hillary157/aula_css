@@ -1,0 +1,25 @@
+p{
+    padding:12px;
+}
+
+.engenharia{
+    background-color: green;
+    color: azure;
+}
+
+.farmacia{
+    color: rgb(0, 183, 255);
+    background-color: rgb(240,240,240);
+}
+
+.biologia{
+    color:#057805;
+    background-color: #00FF00;
+}
+
+.matematica{
+    background-color: #CCC;
+    color: #000;
+
+
+}

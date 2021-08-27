@@ -1,0 +1,75 @@
+ body{
+     background-color: rgb(233, 196, 255);
+ }
+
+ body #principal article section .coordenadores{
+     text-align: center;
+ }
+
+ article p{
+    padding: 12px;
+} 
+
+.titulo{
+    color:#983dff;
+    text-align:center;
+    border-bottom: 1px dashed black;
+    background-color: lightsalmon;
+    padding: 1%;
+}
+
+#primeiroP{
+    color: blue;
+    border: solid 1px black;
+    text-align: center;
+}
+
+#promocao{
+    color:purple;
+    text-align: center;
+}
+
+strong{
+    color:black;
+    background-color:orange;
+}
+
+.final#rodape{
+    border-bottom: 1px solid black;
+    background-color: lightsalmon;
+    padding: 12px;
+    text-align: center;
+}
+
+.curso{
+    background-color:aliceblue;
+
+}
+
+.novocurso{
+    background-color: aliceblue;
+    color:red;
+}
+
+.curso, .novocurso, #contato{
+    background-color: aliceblue;
+}
+
+.coordenadores{
+    background-color: rgb(255, 189, 163);
+}
+
+#principal, .promocao {
+    padding:12px;
+    border-bottom: #CCC 1px solid;
+}
+
+article > p {
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+
+main > article section > .coordenadores{
+    font-weight: bold;
+}
+
