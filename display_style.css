@@ -1,0 +1,49 @@
+p{
+    background-color:#CCC;
+}
+
+a{
+    background-color:rgb(202,184,231);
+}
+
+footer{
+    background-color: beige;
+}
+
+button{
+    background-color: greenyellow;
+}
+
+.professores{
+    display:inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.engenharia{
+    display:inline-block;
+    /* border-left:1px solid green; */
+    border-radius: 20px  50px 80px 100px;
+    background-color: beige;
+    width: 200px;
+    height:200px;
+    border-top-left-radius: 120px;
+}
+
+.rodape{
+    display:none;
+}
+
+a{
+    /* border-width: thin;
+    border-color: red;
+    border-style: solid; */
+    border:thin black dashed;
+    border-top: 10px solid blue;
+}
+
+.farmacia{
+    border-bottom: 5px solid #CCC;
+    border-radius: 5px;
+}
+
